@@ -1,8 +1,4 @@
-# ✨ My Fedora Linux Noble Setup Guide (Post-Installation)
-
-<p align="center">
-  <img src="src/assets/logo.png" alt="Fedora Setup Logo - Nord Style" width="250"/>
-</p>
+# ✨ Fedora Setup Checklist (Post-Installation)
 
 Hey there! So you just installed Fedora and now you're staring at a fresh desktop wondering "what next?" I've been there, and honestly, setting up a new Linux install can feel overwhelming. That's why I put together this guide - it's basically everything I wish someone had told me when I first switched to Fedora.
 
